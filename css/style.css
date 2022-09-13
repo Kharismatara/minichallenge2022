@@ -1,0 +1,40 @@
+.button {
+  background-color: #34c75e;
+  border-radius: 6%;
+}
+.card-awal {
+  background-color: #fafafa;
+}
+.container-card {
+  margin: 5px 30px 50px 60px;
+  padding-top: 50px;
+  padding-right: 35px;
+  padding-left: 0px;
+}
+.a {
+  font-size: 50px;
+}
+.conten1 {
+  height: 350px;
+  width: 500px;
+  padding-right: 30px;
+}
+.btn {
+  text-align: center;
+  background-color: #34c75e;
+  border-radius: 20cm;
+  text-align: center;
+  font-size: 2;
+  border: 0cm;
+}
+.conten2 {
+  padding-top: 8%;
+}
+.conten2a {
+  height: 300px;
+  width: 190px;
+}
+.conten2b {
+  height: 300px;
+  width: 190px;
+}
