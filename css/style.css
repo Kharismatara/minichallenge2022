@@ -45,18 +45,20 @@
 }
 .c3a {
   height: 200px;
-  width: 300px;
+  width: 400px;
   padding-bottom: 20px;
 }
 .c3b {
   height: 200px;
-  width: 300px;
+  width: 400px;
 }
 .c3c {
   height: 400px;
-  width: 300px;
+  width: 350px;
+  padding-left: 50px;
 }
 .c3d {
   height: 400px;
-  width: 300px;
+  width: 330px;
+  padding-left: -10px;
 }
