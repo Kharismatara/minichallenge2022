@@ -32,7 +32,6 @@
 .conten2a {
   height: 300px;
   width: 190px;
-  margin-left: 60px;
 }
 .conten2b {
   height: 300px;
@@ -43,4 +42,21 @@
 }
 .textc3 {
   margin-left: auto;
+}
+.c3a {
+  height: 200px;
+  width: 300px;
+  padding-bottom: 20px;
+}
+.c3b {
+  height: 200px;
+  width: 300px;
+}
+.c3c {
+  height: 400px;
+  width: 300px;
+}
+.c3d {
+  height: 400px;
+  width: 300px;
 }
